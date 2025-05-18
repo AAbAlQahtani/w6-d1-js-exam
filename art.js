@@ -8,5 +8,5 @@ fetch('https://api.harvardartmuseums.org/object?apikey=34136ab4-3986-43f2-9e3d-d
         img1.src = element.records.images.baseimageurl
         console.log(img1)
         // baseimageurl
- })
+ });
   });
